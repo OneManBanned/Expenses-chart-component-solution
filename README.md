@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/expenses-chart-component-solution-_Oilwo_1Sd)]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/expenses-chart-component-solution-_Oilwo_1Sd))
+- Live Site URL: [[Add live site URL here](https://onemanbanned.github.io/Expenses-chart-component-solution/)]([https://your-live-site-url.com](https://onemanbanned.github.io/Expenses-chart-component-solution/))
 
 ### Built with
 
